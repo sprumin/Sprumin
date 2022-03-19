@@ -1,6 +1,6 @@
 ### Lee Seongpil (sprumin)
 
-##### :wave: Hi there! I'm back-end developer using Python.<br> Working as an infrastructure engineer at Wellbia.com.<br>~PS. I'm studying algorithms.~
+##### :wave: Hi there! I'm back-end developer using Python.<br> Working as an infrastructure engineer at Wellbia.com.<br>~PS. I'm studying algorithm.~
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sprumin)](https://solved.ac/sprumin)
 
 ### :pencil2: Stacks
